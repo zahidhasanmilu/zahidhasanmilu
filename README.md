@@ -4,17 +4,8 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/zahidhasanmilu/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/zahidhasan.miluu/)
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=zahidhasanmilu"></a>
-:wave: Hi there, My name is **Zahid Hasan** 😀  
-I've profound knowledge of **Django Framework, Machine Learning**.  
-
-I completed **Bachelors Computer Science** from **Northern University Bangladesh**.  
-I completed **Diploma in Computer Science** from **Jessore Polytechnic, Bangladesh 🇧🇩**.  
-
-I'm interested in doing research on **text and image-related problems**.  
-I love to work with **new technologies** and play with **Data and AI** 🤖
-
+:wave: Hi there, My name is **Zahid Hasan** 😀 I've profound knowledge of **Django Framework, Machine Learning**. I completed **Bachelors Computer Science** from **Northern University Bangladesh**. I completed **Diploma in Computer Science** from **Jessore Polytechnic, Bangladesh 🇧🇩**. I'm interested in doing research on **text and image-related problems**. I love to work with **new technologies** and play with **Data and AI** 🤖
 ---
-
 <p align="center">
   <sup>Special Announcement:</sup>
   <br>
@@ -23,7 +14,6 @@ I love to work with **new technologies** and play with **Data and AI** 🤖
   <sub>I plan on covering my projects and putting more content there.<br>
   <a href="https://www.youtube.com/@zahidhasanmiluu">Subscribe to the channel</a>.</sub>
 </p>
-
 ---
 
 ## My Tech Stack
